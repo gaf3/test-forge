@@ -1,2 +1,2 @@
-# {{ craft }}
+# example
 Test Forge to test the CnC Forge
