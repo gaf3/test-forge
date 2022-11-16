@@ -1,5 +1,5 @@
 {
-    "maybe": [
-        "they"
-    ]
+    "maybe": {
+        "they": []
+    }
 }
